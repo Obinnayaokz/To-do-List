@@ -21,8 +21,8 @@ Live version: https://obinnayaokz.github.io/todo-list/
 2. Open `index.html` in your browser.
 
 ## What I Learned
-- Basics of HTML
-- DOM manipulation with JavaScript
-- Using arrays to manage task data
-- Storing data with localStorage
-- Handling user events and filtering tasks
+- What HTML actually does 
+-How CSS controls spacing, layout, and design
+-How JavaScript interacts with the DOM to make things change on screen
+-What localStorage is and how to store data
+-How filters work with arrays (filter, map)
