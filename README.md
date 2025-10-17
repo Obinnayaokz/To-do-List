@@ -24,5 +24,5 @@ Live version: https://obinnayaokz.github.io/todo-list/
 - Basics of HTML
 - DOM manipulation with JavaScript
 - Using arrays to manage task data
-- Persisting data with localStorage
+- Storing data with localStorage
 - Handling user events and filtering tasks
